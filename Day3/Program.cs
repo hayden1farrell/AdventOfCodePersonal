@@ -146,13 +146,5 @@ namespace Day3
             }
             return validData;
         }
-
-        static void DisplayList(List<string> validData){
-            foreach (var item in validData)
-            {
-                Console.WriteLine(item);
-            }
-            Console.WriteLine("------");
-        }
     }
 }
