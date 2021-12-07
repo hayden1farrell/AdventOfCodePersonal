@@ -1,0 +1,16 @@
+/home/pep/Documents/dcode/AdventOfCodePersonal/Day6/bin/Debug/net5.0/Day6
+/home/pep/Documents/dcode/AdventOfCodePersonal/Day6/bin/Debug/net5.0/Day6.deps.json
+/home/pep/Documents/dcode/AdventOfCodePersonal/Day6/bin/Debug/net5.0/Day6.runtimeconfig.json
+/home/pep/Documents/dcode/AdventOfCodePersonal/Day6/bin/Debug/net5.0/Day6.runtimeconfig.dev.json
+/home/pep/Documents/dcode/AdventOfCodePersonal/Day6/bin/Debug/net5.0/Day6.dll
+/home/pep/Documents/dcode/AdventOfCodePersonal/Day6/bin/Debug/net5.0/ref/Day6.dll
+/home/pep/Documents/dcode/AdventOfCodePersonal/Day6/bin/Debug/net5.0/Day6.pdb
+/home/pep/Documents/dcode/AdventOfCodePersonal/Day6/obj/Debug/net5.0/Day6.csproj.AssemblyReference.cache
+/home/pep/Documents/dcode/AdventOfCodePersonal/Day6/obj/Debug/net5.0/Day6.GeneratedMSBuildEditorConfig.editorconfig
+/home/pep/Documents/dcode/AdventOfCodePersonal/Day6/obj/Debug/net5.0/Day6.AssemblyInfoInputs.cache
+/home/pep/Documents/dcode/AdventOfCodePersonal/Day6/obj/Debug/net5.0/Day6.AssemblyInfo.cs
+/home/pep/Documents/dcode/AdventOfCodePersonal/Day6/obj/Debug/net5.0/Day6.csproj.CoreCompileInputs.cache
+/home/pep/Documents/dcode/AdventOfCodePersonal/Day6/obj/Debug/net5.0/Day6.dll
+/home/pep/Documents/dcode/AdventOfCodePersonal/Day6/obj/Debug/net5.0/ref/Day6.dll
+/home/pep/Documents/dcode/AdventOfCodePersonal/Day6/obj/Debug/net5.0/Day6.pdb
+/home/pep/Documents/dcode/AdventOfCodePersonal/Day6/obj/Debug/net5.0/Day6.genruntimeconfig.cache
